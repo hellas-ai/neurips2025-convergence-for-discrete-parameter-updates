@@ -1,7 +1,7 @@
 # Convergence for Discrete Parameter Updates
 
 This repository contains experiments accompanying the paper
-"Convergence for Discrete Parameter Updates".
+[Convergence for Discrete Parameter Updates](https://arxiv.org/abs/2512.04051).
 In particular, the *multinomial sampling optimizer* proposed.
 
 Experiments plot convergence for four models against the MNIST dataset:
